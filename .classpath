@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="bson-3.3.0.jar" sourcepath="bson-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="mongodb-driver-3.3.0.jar" sourcepath="mongodb-driver-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="mongodb-driver-core-3.3.0.jar" sourcepath="mongodb-driver-core-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H/Documents/Visual Studio 2013/Projects/B4J/B4J/bin/Debug/libraries/jCore.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
